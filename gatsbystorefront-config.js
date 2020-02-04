@@ -34,82 +34,7 @@ module.exports = {
       // 'Line',
       'Viber',
     ],
-    googleAnalyticsId: 'UA-141525658-3',
-    //
-    // carousel, collection, product
-    //
-    mainPage: [
-      {
-        type: 'carousel',
-        children: [
-          {
-            name: 'Jewelery',
-            type: 'collection',
-            handle: 'jewelery',
-          },
-          {
-            name: 'Apparel',
-            type: 'collection',
-            handle: 'apparel',
-            textColor: 'white',
-            textBgColor: 'primary',
-          },
-          {
-            name: 'Silk Summer Top',
-            type: 'product',
-            handle: 'silk-summer-top',
-            textColor: 'white',
-            textBgColor: 'primary',
-          },
-        ],
-      },
-      {
-        name: 'Apparel',
-        type: 'collection',
-        handle: 'apparel',
-        textColor: 'white',
-        textBgColor: 'primary',
-      },
-      {
-        name: 'Garden',
-        type: 'collection',
-        handle: 'garden',
-        textColor: 'white',
-        textBgColor: 'primary',
-      },
-      {
-        name: 'Test',
-        type: 'collection',
-        handle: 'test-collection',
-      },
-      {
-        name: 'One product',
-        type: 'product',
-        handle: 'red-sports-tee',
-      },
-      {
-        name: 'Anchor Bracelet Mens',
-        type: 'product',
-        handle: 'leather-anchor',
-      },
-      {
-        name: 'Yellow Sofa',
-        type: 'product',
-        handle: 'yellow-sofa',
-      },
-      {
-        name: '7 Shakra Bracelet',
-        type: 'product',
-        handle: 'chain-bracelet',
-      },
-      {
-        name: 'White Cotton Shirt',
-        type: 'product',
-        handle: 'white-cotton-shirt',
-        textColor: 'white',
-        textBgColor: 'primary',
-      },
-    ],
+    // googleAnalyticsId: 'UA-141525658-3',
     footerLinks: [
       // {
       //   name: 'About us',
@@ -134,7 +59,7 @@ module.exports = {
     ],
     locales: 'en-US',
     currency: 'USD',
-    productsPerCollectionPage: '9',
+    productsPerCollectionPage: '2',
     articlesPerBlogPage: '6',
   };
   

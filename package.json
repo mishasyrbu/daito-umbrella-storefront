@@ -1,25 +1,14 @@
 {
-  "name": "@gatsbystorefront/gatsby-starter-storefront-shopify",
-  "private": false,
-  "description": "A simple starter to get up and developing quickly with Gatsby Storefront",
-  "version": "1.0.1",
-  "author": {
-    "name": "Pavel Ivanov",
-    "email": "paveliv@gmail.com",
-    "url": "https://gatsbystorefront.com/"
-  },
+  "name": "daito-umbrella-storefront",
+  "private": true,
+  "description": "Daito Umbrella Shop Gatsby Storefront",
+  "version": "0.0.1",
   "dependencies": {
     "@gatsbystorefront/gatsby-theme-storefront-shopify": "^1.0.2",
     "gatsby": "^2.13.38",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
-  "keywords": [
-    "gatsby",
-    "gatsbystorefront",
-    "gatsby-theme-storefront-shopify",
-    "gatsby-starter"
-  ],
   "license": "MPL-2.0",
   "scripts": {
     "build": "gatsby build",
@@ -32,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbystorefront/gatsby-starter-storefront-shopify"
+    "url": "https://github.com/mishasyrbu/daito-umbrella-storefront"
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
