@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://gatsbystorefront.now.sh/cart</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/collection/products</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/product/meigar-1-2-3-layer-wall-mount-samurai-sword-holder-katana-holder-stand-hanger-bracket-rack-display-black-wood-home-decor-crafts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/product/stylish-black-japanese-daido-sword-katana-umbrella</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/policy/privacyPolicy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/policy/refundPolicy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/policy/termsOfService</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/pages/contact-us</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/pages/my-personal-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/pages/request-personal-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/pages/edit-personal-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/blog/news/article/test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsbystorefront.now.sh/blog/news</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/cart</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/collection/products</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/product/meigar-1-2-3-layer-wall-mount-samurai-sword-holder-katana-holder-stand-hanger-bracket-rack-display-black-wood-home-decor-crafts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/product/stylish-black-japanese-daido-sword-katana-umbrella</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/policy/privacyPolicy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/policy/refundPolicy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/policy/termsOfService</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/pages/contact-us</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/pages/my-personal-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/pages/request-personal-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/pages/edit-personal-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/blog/news/article/test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsbystorefront.now.sh/daito-umbrella-storefront/blog/news</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
