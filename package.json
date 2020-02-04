@@ -10,13 +10,14 @@
     "react-dom": "^16.8.6"
   },
   "scripts": {
+    "prebuild": "rm -rf ./public & rm -rf ./.cache",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "npm run build --prefix-paths && gh-pages -d public"
   },
   "repository": {
     "type": "git",
