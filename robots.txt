@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://gatsbystorefront.now.sh/sitemap.xml
+Host: https://gatsbystorefront.now.sh
