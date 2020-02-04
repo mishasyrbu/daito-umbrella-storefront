@@ -2,6 +2,7 @@ require("dotenv").config({
   path: `.env`,
 })
 module.exports = {
+  pathPrefix: "/daito-umbrella-storefront",
   plugins: [
     {
       resolve: "@gatsbystorefront/gatsby-theme-storefront-shopify",
