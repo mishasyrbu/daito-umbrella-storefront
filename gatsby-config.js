@@ -2,6 +2,7 @@ require("dotenv").config({
   path: `.env`,
 })
 module.exports = {
+  pathPrefix: "/daito-umbrella-storefront",
   plugins: [
     {
       resolve: "@gatsbystorefront/gatsby-theme-storefront-shopify",
@@ -10,6 +11,6 @@ module.exports = {
         accessToken: process.env.GATSBY_SHOPIFY_ACCESS_TOKEN,
         basePath: "/",
       },
-    }, 'gatsby-transformer-sharp',
+    },
   ],
 }
