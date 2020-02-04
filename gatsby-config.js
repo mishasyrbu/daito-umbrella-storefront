@@ -10,6 +10,6 @@ module.exports = {
         accessToken: process.env.GATSBY_SHOPIFY_ACCESS_TOKEN,
         basePath: "/",
       },
-    },
+    }, 'gatsby-transformer-sharp',
   ],
 }
