@@ -12,5 +12,14 @@ module.exports = {
         basePath: '/',
       },
     },
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: 'slider-images',
+        path: `${__dirname}/static/images/slider`,
+      },
+    },
   ],
 }
