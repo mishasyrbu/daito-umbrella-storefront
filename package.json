@@ -10,7 +10,7 @@
     "react-dom": "^16.8.6"
   },
   "scripts": {
-    "prebuild": "rm -rf ./public & rm -rf ./.cache",
+    "prebuild": "npm run clean",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "npm run develop",
