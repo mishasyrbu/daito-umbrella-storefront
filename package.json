@@ -7,7 +7,8 @@
     "@gatsbystorefront/gatsby-theme-storefront-shopify": "^1.0.2",
     "gatsby": "^2.13.38",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-virtualized": "^9.21.2"
   },
   "scripts": {
     "prebuild": "npm run clean",
@@ -24,6 +25,7 @@
     "url": "https://github.com/mishasyrbu/daito-umbrella-storefront"
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "react-virtualized-image-measurer": "^0.4.0"
   }
 }
